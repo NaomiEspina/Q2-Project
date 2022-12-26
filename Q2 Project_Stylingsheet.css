@@ -1,0 +1,33 @@
+.font1 {
+	font-family: Cooper Black;
+	text-decoration: underline;
+	color: #F4C430;
+	text-align: center;
+	background-color: white;
+}
+.image {
+	height: 250px;
+	width: 300px;
+	background-color: white;
+}
+#id1 {
+	border-style: dashed;
+	border-width: 5px;
+	border-color: #FFA836;
+	padding: 2px;
+	margin: 5px;
+	background-color: white;
+}
+#id2 {
+	background-color:#CA3433; 
+	color: white; 
+	font-family: Cooper Black;
+	text-shadow: 4px 4px 4px #FFA836;
+}
+.text {
+	font-family: Comic Sans MS;
+	color: black;
+	letter-spacing: 2px;
+	text-align: center;
+	background-color: white;
+}
